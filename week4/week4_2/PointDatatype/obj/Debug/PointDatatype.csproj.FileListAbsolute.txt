@@ -1,0 +1,9 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\bin\Debug\PointDatatype.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\bin\Debug\PointDatatype.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\bin\Debug\PointDatatype.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\obj\Debug\PointDatatype.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\obj\Debug\PointDatatype.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\obj\Debug\PointDatatype.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\obj\Debug\PointDatatype.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\obj\Debug\PointDatatype.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PointDatatype\obj\Debug\PointDatatype.PointForm.resources

@@ -1,0 +1,6 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PublicPoint\obj\Debug\PublicPoint.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PublicPoint\obj\Debug\PublicPoint.Form1.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PublicPoint\obj\Debug\PublicPoint.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PublicPoint\obj\Debug\PublicPoint.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PublicPoint\obj\Debug\PublicPoint.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\PublicPoint\obj\Debug\PublicPoint.PointForm.resources

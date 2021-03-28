@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\bin\Debug\FractionProgram.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\bin\Debug\FractionProgram.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\bin\Debug\FractionProgram.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.FractionCalc.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\FractionProgram\obj\Debug\FractionProgram.pdb

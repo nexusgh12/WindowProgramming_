@@ -1,0 +1,13 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\bin\Debug\netcoreapp3.1\App.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\bin\Debug\netcoreapp3.1\App.dll
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\bin\Debug\netcoreapp3.1\App.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.dll
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week1\App\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache

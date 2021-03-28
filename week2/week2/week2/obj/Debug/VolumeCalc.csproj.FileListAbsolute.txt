@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\bin\Debug\week2.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\bin\Debug\week2.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\bin\Debug\week2.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\VolumeCalc.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\week2.frmVolumeCalc.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\week2.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\VolumeCalc.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\VolumeCalc.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\week2.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\week2\week2\obj\Debug\week2.pdb

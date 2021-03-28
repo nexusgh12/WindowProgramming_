@@ -1,0 +1,9 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\bin\Debug\problem_6.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\bin\Debug\problem_6.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\bin\Debug\problem_6.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\obj\Debug\problem_6.Form1.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\obj\Debug\problem_6.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\obj\Debug\problem_6.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\obj\Debug\problem_6.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\obj\Debug\problem_6.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week2\problem_6\problem_6\obj\Debug\problem_6.pdb

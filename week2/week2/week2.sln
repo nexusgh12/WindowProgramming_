@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeCalc", "week2\VolumeCalc.csproj", "{61F42DF0-B496-40B0-A875-096C2A2111EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F42DF0-B496-40B0-A875-096C2A2111EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F42DF0-B496-40B0-A875-096C2A2111EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F42DF0-B496-40B0-A875-096C2A2111EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F42DF0-B496-40B0-A875-096C2A2111EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5EBF7E-BEF6-46B8-8392-672DF53F6EBF}
+	EndGlobalSection
+EndGlobal

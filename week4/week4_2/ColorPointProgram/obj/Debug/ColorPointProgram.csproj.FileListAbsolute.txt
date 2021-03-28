@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\bin\Debug\ColorPointProgram.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\bin\Debug\ColorPointProgram.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\bin\Debug\ColorPointProgram.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.ColorPointForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week4\week4_2\ColorPointProgram\obj\Debug\ColorPointProgram.pdb

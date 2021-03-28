@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\bin\Debug\P_3.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\bin\Debug\P_3.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\bin\Debug\P_3.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.MainForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3_bmi\P_3\obj\Debug\P_3.pdb

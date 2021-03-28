@@ -1,0 +1,9 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\bin\Debug\P_2.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\bin\Debug\P_2.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\bin\Debug\P_2.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\obj\Debug\P_2.MainForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\obj\Debug\P_2.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\obj\Debug\P_2.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\obj\Debug\P_2.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\obj\Debug\P_2.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\week3\Week3\P_2\obj\Debug\P_2.pdb
