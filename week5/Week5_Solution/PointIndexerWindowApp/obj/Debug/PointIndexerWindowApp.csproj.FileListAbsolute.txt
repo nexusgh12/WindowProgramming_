@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.PointerForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\bin\Debug\PointIndexerWindowApp.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\bin\Debug\PointIndexerWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\bin\Debug\PointIndexerWindowApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.pdb

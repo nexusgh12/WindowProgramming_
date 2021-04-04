@@ -1,0 +1,9 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\bin\Debug\ComplexCalcWindowApp.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\bin\Debug\ComplexCalcWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\bin\Debug\ComplexCalcWindowApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\obj\Debug\ComplexCalcWindowApp.ComplexForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\obj\Debug\ComplexCalcWindowApp.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\obj\Debug\ComplexCalcWindowApp.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\obj\Debug\ComplexCalcWindowApp.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\obj\Debug\ComplexCalcWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\ComplexCalcWindowApp\obj\Debug\ComplexCalcWindowApp.pdb

@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\bin\Debug\DelegateCallWindowApp.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\bin\Debug\DelegateCallWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\bin\Debug\DelegateCallWindowApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.DelegateForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\DelegateCallWindowApp\obj\Debug\DelegateCallWindowApp.pdb

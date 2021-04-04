@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\bin\Debug\Week5_Project.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\bin\Debug\Week5_Project.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\bin\Debug\Week5_Project.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.PointForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\Week5_Project\obj\Debug\Week5_Project.pdb

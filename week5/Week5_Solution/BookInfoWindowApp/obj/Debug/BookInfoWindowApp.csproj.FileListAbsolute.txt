@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.MainForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week5\Week5_Solution\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.pdb
