@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\bin\Debug\ArrayFormApp.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\bin\Debug\ArrayFormApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\bin\Debug\ArrayFormApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.ArrayForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ArrayFormApp\obj\Debug\ArrayFormApp.csprojAssemblyReference.cache

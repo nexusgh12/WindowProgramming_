@@ -1,0 +1,9 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\bin\Debug\ThreadExamFormApp.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\bin\Debug\ThreadExamFormApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\bin\Debug\ThreadExamFormApp.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\obj\Debug\ThreadExamFormApp.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\obj\Debug\ThreadExamFormApp.ThreadForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\obj\Debug\ThreadExamFormApp.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\obj\Debug\ThreadExamFormApp.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\obj\Debug\ThreadExamFormApp.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ThreadExamFormApp\obj\Debug\ThreadExamFormApp.pdb

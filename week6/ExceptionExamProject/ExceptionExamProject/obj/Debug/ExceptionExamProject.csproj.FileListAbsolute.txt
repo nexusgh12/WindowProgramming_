@@ -1,0 +1,10 @@
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\bin\Debug\ExceptionExamProject.exe.config
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\bin\Debug\ExceptionExamProject.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\bin\Debug\ExceptionExamProject.pdb
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.csprojAssemblyReference.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.MainForm.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.Properties.Resources.resources
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.csproj.GenerateResource.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.csproj.CoreCompileInputs.cache
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.exe
+D:\Guhyeon\Univ\2021_4-1\WindowProgramming\WindowProgramming_\week6\ExceptionExamProject\ExceptionExamProject\obj\Debug\ExceptionExamProject.pdb
